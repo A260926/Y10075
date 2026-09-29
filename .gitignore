@@ -34,3 +34,9 @@ coverage/
 .vite/
 .turbo/
 *.tsbuildinfo
+
+
+# Added by cargo
+
+/target
+target/test-tmp
